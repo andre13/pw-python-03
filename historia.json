@@ -1,0 +1,19 @@
+{
+    "Números de linhas": "1",
+    "Número de caractéres": "24",
+    "Palavra mais comprida": "Abracadabra",
+    "Ocorrências de letras": [
+        {
+            "i": 1,
+            "p": 1,
+            "m": 1,
+            "b": 2,
+            "u": 1,
+            "d": 1,
+            "g": 1,
+            "c": 1,
+            "a": 8,
+            "r": 3
+        }
+    ]
+}
